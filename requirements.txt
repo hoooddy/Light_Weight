@@ -1,0 +1,18 @@
+efficientnet_pytorch
+vit_pytorch
+progress
+albumentations
+MTCNN
+facenet-pytorch
+scikit-learn
+pandas
+numpy
+matplotlib
+torchsummary
+gputil
+psutil
+py-cpuinfo
+distro
+
+# pip uninstall pydantic pydantic-core
+# pip install pydantic
